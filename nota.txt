@@ -1,0 +1,1 @@
+Es posible que los que estàn hecho en pseudocodigo tengan fallas debido al program1.h que no acepta ciertos caracteres. Dejo mi program1 a lo mejor funciona. Los que estan en c++ si funcionan.
